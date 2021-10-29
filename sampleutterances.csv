@@ -1,0 +1,9 @@
+intent,utterances
+orderfood,I need 2 buckets of fried chicken
+orderfood,Can i have cup of coffee to go
+orderfood,Coffee please
+orderfood,I would like 2 cucumber sandwiches
+requestcheck,Can I have the check please
+requestcheck,check please
+cancelorder,Please cancel the orderfood
+cancelorder,I dont want this
